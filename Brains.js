@@ -1,7 +1,7 @@
 let homeCount = 0
 let guestCount = 0
 let homeScore1 = document.getElementById("homeScore") 
-let guestScore1 = document.getElementById("guestScore")
+let guestScore1 = document.getElementById("guestScore01")
 
 function hadd1(){
         homeCount += 1
